@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:minaminao/jphacks.git
+[submodule "deep-learning"]
+	path = deep-learning
+	url = git@github.com:qqhann/LipNet-JP.git
+[submodule "iOS"]
+	path = iOS
+	url = git@github.com:tommy19970714/Pakupakun.git
