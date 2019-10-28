@@ -1,6 +1,6 @@
 # パクパくん
 
-[![Product Name](image.png)](https://www.youtube.com/watch?v=nrztJtQ8rZU)
+[![Product Name](image.png)](https://youtu.be/7D9jSbw4Cpo)
 
 ## 製品概要
 ### 読唇術 × Tech
